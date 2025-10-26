@@ -65,37 +65,63 @@ This repository emphasizes **industry-oriented implementations**, including:
 
 master-Java-DSA-SystemDesign-Batch-24Oct2025/
 │
+
 ├── 📘 Java-Fundamentals/
+
 │ ├── Basics, OOPs, Strings, Arrays
+
 │ ├── Exception Handling, Multithreading
+
 │ └── Collections & File Handling
 │
+
 ├── 💡 DSA-Implementations/
+
 │ ├── Arrays, LinkedLists, Trees, Graphs
+
 │ ├── Searching & Sorting Algorithms
+
 │ └── Competitive Programming Problems
+
 │
 ├── 🏗️ System-Design/
+
 │ ├── LLD (Object-Oriented Design)
+
 │ ├── HLD (Scalable Architecture)
+
 │ └── Case Studies (Real-world Systems)
+
 │
 ├── 🧩 Projects/
+
 │ ├── Core Java Mini Projects
+
 │ ├── DSA Challenges
+
 │ └── System Design Capstone Project
+
 │
 ├── 🧮 Assignments/
+
 │ ├── Weekly Tasks & Coding Exercises
+
 │ └── Real-world Scenario-based Questions
+
 │
 ├── 📚 Notes/
+
 │ ├── Theoretical Summaries
+
 │ └── Concept Revision Sheets
+
 │
 └── 📑 Resources/
+
 ├── Interview Preparation Kit
+
 └── Reference Links, PDFs, Cheat Sheets
+
 
 
 ---
@@ -117,7 +143,7 @@ master-Java-DSA-SystemDesign-Batch-24Oct2025/
 | **Batch Name** | Master Java \| DSA \| System Design |
 | **Start Date** | 24th October 2025 |
 | **Duration** | 3–6 Months (Progressive Learning Path) |
-| **Mode** | Online / Offline (Hybrid Learning) |
+| **Mode** | Online                                     |
 
 ---
 
