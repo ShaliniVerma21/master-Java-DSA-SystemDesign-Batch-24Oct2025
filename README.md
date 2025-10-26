@@ -1,4 +1,3 @@
-# master-Java-DSA-SystemDesign-Batch-24Oct2025
-🚀 Master Java | DSA | System Design — Batch 24th October 2025
+# 🚀 Master Java | DSA | System Design — Batch 24th October 2025
  <p align="center"> <img src="https://img.shields.io/badge/Language-Java-orange?style=flat-square"> <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue?style=flat-square"> <img src="https://img.shields.io/badge/Focus-DSA%20|%20System%20Design%20|%20OOPs-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/Batch-24th%20October%202025-purple?style=flat-square"> <img src="https://img.shields.io/github/last-commit/shaliniverma/master-Java-DSA-SystemDesign-Batch-24Oct2025?style=flat-square"> </p>
  <p align="center"> <img width="1024" height="1024" alt="Gemini_Generated_Image_awmyv4awmyv4awmy" src="https://github.com/user-attachments/assets/b8fd9c61-d0df-42a5-b464-40c4f3a4bc59" /> </p>
