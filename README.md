@@ -64,6 +64,7 @@ This repository emphasizes **industry-oriented implementations**, including:
 ## 📂 Repository Structure  
 
 master-Java-DSA-SystemDesign-Batch-24Oct2025/
+
 │
 
 ├── 📘 Java-Fundamentals/
@@ -73,6 +74,7 @@ master-Java-DSA-SystemDesign-Batch-24Oct2025/
 │ ├── Exception Handling, Multithreading
 
 │ └── Collections & File Handling
+
 │
 
 ├── 💡 DSA-Implementations/
@@ -84,6 +86,7 @@ master-Java-DSA-SystemDesign-Batch-24Oct2025/
 │ └── Competitive Programming Problems
 
 │
+
 ├── 🏗️ System-Design/
 
 │ ├── LLD (Object-Oriented Design)
@@ -93,6 +96,7 @@ master-Java-DSA-SystemDesign-Batch-24Oct2025/
 │ └── Case Studies (Real-world Systems)
 
 │
+
 ├── 🧩 Projects/
 
 │ ├── Core Java Mini Projects
@@ -102,6 +106,7 @@ master-Java-DSA-SystemDesign-Batch-24Oct2025/
 │ └── System Design Capstone Project
 
 │
+
 ├── 🧮 Assignments/
 
 │ ├── Weekly Tasks & Coding Exercises
@@ -109,6 +114,7 @@ master-Java-DSA-SystemDesign-Batch-24Oct2025/
 │ └── Real-world Scenario-based Questions
 
 │
+
 ├── 📚 Notes/
 
 │ ├── Theoretical Summaries
@@ -116,6 +122,7 @@ master-Java-DSA-SystemDesign-Batch-24Oct2025/
 │ └── Concept Revision Sheets
 
 │
+
 └── 📑 Resources/
 
 ├── Interview Preparation Kit
