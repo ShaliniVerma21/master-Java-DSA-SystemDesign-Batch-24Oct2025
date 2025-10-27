@@ -149,6 +149,118 @@ master-Java-DSA-SystemDesign-Batch-24Oct2025/
 
 ---
 
+# 12-Week Study & Implementation Roadmap (fast-track + thorough)
+This is a practical schedule you can publish as `Assignments/12-week-roadmap.md`. Each week has topics, practice tasks, and deliverables.
+
+Week 1 — Java Fundamentals
+- Topics: JDK setup, syntax, variables, primitive & reference types, operators, control flow (if/switch), loops (for, while).
+- Exercises: Write 10 small programs (calculator, factorial, prime check, FizzBuzz).
+- Deliverable: `Java-Fundamentals/01_Basics/examples` with README and solutions.
+
+Week 2 — Functions, Arrays, Strings
+- Topics: Methods, method overloading, arrays (1D/2D), basic string ops.
+- Exercises: Reverse string, rotate array, frequency counts.
+- Deliverable: `DSA-Implementations/01_Arrays_Strings/` with documented solutions.
+
+Week 3 — OOP (Classes & Objects)
+- Topics: classes, constructors, static vs instance, packages.
+- Exercises: Model `Student` and `Course` classes, basic CLI to add/list students.
+- Deliverable: `Java-Fundamentals/02_OOPs/Examples` + UML sketch.
+
+Week 4 — Advanced OOP & Design Patterns
+- Topics: Inheritance, interfaces, abstract classes, polymorphism, SOLID principles.
+- Exercises: Implement Factory and Singleton patterns with tests.
+- Deliverable: `Java-Fundamentals/02_OOPs/Patterns`.
+
+Week 5 — Exceptions, File I/O, Collections intro
+- Topics: try/catch/finally, custom exceptions, java.io and java.nio, List/Set/Map basics.
+- Exercises: CSV reader/writer, implement simple text-based DB.
+- Deliverable: `Java-Fundamentals/03_Exceptions_Multithreading/IO_Collections`.
+
+Week 6 — Multithreading & Concurrency
+- Topics: Thread vs Runnable, synchronization, locks, ExecutorService, concurrency collections.
+- Exercises: Producer-consumer, thread-safe counter, CompletableFuture example.
+- Deliverable: folder with examples and tests.
+
+Week 7 — JDBC & Mini Project 1
+- Topics: JDBC basics, connection pooling, prepared statements.
+- Project: Student Management System with CRUD (MySQL example).
+- Deliverable: `Projects/Mini-01_Student-Management-System/` with SQL schema and run instructions.
+
+Week 8 — DSA: Linked lists, stacks, queues, recursion
+- Topics: Implementation from scratch, stack/queue via arrays and linked nodes, recursion fundamentals.
+- Exercises: Reverse linked list, evaluate postfix, recursion problems.
+- Deliverable: `DSA-Implementations/02_LinkedLists_Stacks_Queues/`.
+
+Week 9 — DSA: Trees & Graphs
+- Topics: Binary tree, BST, traversals, DFS/BFS, adjacency lists.
+- Exercises: Lowest common ancestor, serialize/deserialize tree, shortest path basics.
+- Deliverable: `DSA-Implementations/03_Trees_Graphs/`.
+
+Week 10 — DSA: Heaps, HashMaps, Sorting & Searching, Complexity
+- Topics: Heap operations, priority queue, hash collisions, quicksort/mergesort, Big-O.
+- Exercises: Kth largest, top-k frequency, custom comparator sorts.
+- Deliverable: `DSA-Implementations/05_Searching_Sorting_Complexity/`.
+
+Week 11 — System Design LLD & Design Patterns wrap
+- Topics: UML, class diagrams, component diagrams, common patterns for high cohesion/low coupling.
+- Exercises: LLD for E-commerce cart, UML diagrams + class implementations.
+- Deliverable: `System-Design/LLD/Ecommerce-LLD/`.
+
+Week 12 — System Design HLD & Capstone start
+- Topics: Scalability, caching, load balancing, database sharding, CAP theorem, messaging queues.
+- Capstone: Design HLD for a simplified Netflix/Zomato/WhatsApp with HLD diagrams and trade-offs.
+- Deliverable: `Projects/Capstone_SystemDesignProject/` including architecture diagram and a reference prototype (could be just API stubs + README).
+
+> After week 12, continue with interview-style LeetCode practice, optimize projects, and prepare slides + demo video for capstone.
+
+---
+
+# Mini Projects (scoped + acceptance criteria)
+Put each mini-project under `Projects/` with README describing run instructions, technology stack, DB schema, test cases, and expected outputs.
+
+Mini-01: Student Management System (CLI + JDBC)
+- Features: CRUD students, search by id/name, export CSV.
+- Acceptance: Run scripts to create DB and run sample operations. Unit tests for DAO methods.
+
+Mini-02: E-Commerce Lite (REST API)
+- Tech: Spring Boot (simple), H2/MySQL, Maven.
+- Features: Product catalog, add-to-cart, simple order flow.
+- Acceptance: Postman collection, README with sample curl requests.
+
+Capstone: Scalable Chat or Streaming microservice design
+- Deliver: HLD diagram (Markdown image), components, sequence diagram, minimal prototype (e.g., WebSocket server stub), and load testing notes.
+
+---
+
+# Contribution & maintenance — immediate files to add
+Create these files in `.github/` and repo root:
+
+- `.github/CONTRIBUTING.md` — how to contribute (branching, PR structure, code style).
+- `.github/PULL_REQUEST_TEMPLATE.md` — PR checklist: title format, description, testing steps, linked issue.
+- `.github/ISSUE_TEMPLATE/bug_report.md` and `feature_request.md`.
+- `CODE_OF_CONDUCT.md` — standard Contributor Covenant.
+- `LICENSE` — choose MIT/Apache-2.0 (pick one and add text).
+- `SECURITY.md` — how to report vulnerabilities.
+
+Example `CONTRIBUTING.md` key points:
+- Branching: `main` protected; feature branches `feat/<short-description>`, bugfix `fix/<id>`.
+- Commit messages: Conventional commits recommended: `feat:`, `fix:`, `chore:`, `docs:`.
+- PRs: Must include description, test instructions, screenshots if UI changes.
+- Reviewer: Tag `@repo-owner` and two reviewers for major features.
+
+---
+
+# Issue labels & project board suggestions
+Create labels: `good first issue`, `help wanted`, `bug`, `enhancement`, `documentation`, `priority: high`, `review needed`.
+
+Create a GitHub Project board (Kanban): `Backlog | In Progress | Review | Done`. Use Issues for tasks and link PRs.
+
+---
+
+
+
+
 ## 🧰 Tech Stack  
 
 - **Programming Language:** Java (JDK 17+)  
