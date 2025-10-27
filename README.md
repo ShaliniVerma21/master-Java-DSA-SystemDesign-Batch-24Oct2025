@@ -233,33 +233,6 @@ Capstone: Scalable Chat or Streaming microservice design
 
 ---
 
-# Contribution & maintenance — immediate files to add
-Create these files in `.github/` and repo root:
-
-- `.github/CONTRIBUTING.md` — how to contribute (branching, PR structure, code style).
-- `.github/PULL_REQUEST_TEMPLATE.md` — PR checklist: title format, description, testing steps, linked issue.
-- `.github/ISSUE_TEMPLATE/bug_report.md` and `feature_request.md`.
-- `CODE_OF_CONDUCT.md` — standard Contributor Covenant.
-- `LICENSE` — choose MIT/Apache-2.0 (pick one and add text).
-- `SECURITY.md` — how to report vulnerabilities.
-
-Example `CONTRIBUTING.md` key points:
-- Branching: `main` protected; feature branches `feat/<short-description>`, bugfix `fix/<id>`.
-- Commit messages: Conventional commits recommended: `feat:`, `fix:`, `chore:`, `docs:`.
-- PRs: Must include description, test instructions, screenshots if UI changes.
-- Reviewer: Tag `@repo-owner` and two reviewers for major features.
-
----
-
-# Issue labels & project board suggestions
-Create labels: `good first issue`, `help wanted`, `bug`, `enhancement`, `documentation`, `priority: high`, `review needed`.
-
-Create a GitHub Project board (Kanban): `Backlog | In Progress | Review | Done`. Use Issues for tasks and link PRs.
-
----
-
-
-
 
 ## 🧰 Tech Stack  
 
