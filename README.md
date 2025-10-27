@@ -61,7 +61,25 @@ This repository emphasizes **industry-oriented implementations**, including:
 
 ---
 
+# 🚀 Master Java | DSA | System Design — Batch 24th October 2025
+
+**Goal:** Build professional Java skills + problem solving + system design ability, and ship portfolio projects ready for interviews.
+
+## What’s inside
+- Java Programming (Core → Advanced): Fundamentals, OOP, Exceptions, Threads, Collections, File I/O, JDBC.
+- DSA: Arrays, Strings, Linked lists, Trees, Graphs, Heaps, HashMaps, Recursion, Sorting & Searching, Complexity.
+- System Design: LLD (UML, design patterns) and HLD (scalability, distributed systems), plus real-world case studies.
+- Projects: Mini projects + Capstone with acceptance criteria.
+
+## Quick start
+1. Clone repo:
+   ```bash
+   git clone https://github.com/ShaliniVerma21/master-Java-DSA-SystemDesign-Batch-24Oct2025.git
+
 ## 📂 Repository Structure  
+
+--- 
+
 
 master-Java-DSA-SystemDesign-Batch-24Oct2025/
 
