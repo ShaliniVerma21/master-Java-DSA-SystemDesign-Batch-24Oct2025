@@ -61,8 +61,6 @@ This repository emphasizes **industry-oriented implementations**, including:
 
 ---
 
-# 🚀 Master Java | DSA | System Design — Batch 24th October 2025
-
 **Goal:** Build professional Java skills + problem solving + system design ability, and ship portfolio projects ready for interviews.
 
 ## What’s inside
